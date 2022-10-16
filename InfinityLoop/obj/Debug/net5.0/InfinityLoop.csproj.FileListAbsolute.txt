@@ -1,0 +1,16 @@
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\bin\Debug\net5.0\InfinityLoop.exe
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\bin\Debug\net5.0\InfinityLoop.deps.json
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\bin\Debug\net5.0\InfinityLoop.runtimeconfig.json
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\bin\Debug\net5.0\InfinityLoop.runtimeconfig.dev.json
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\bin\Debug\net5.0\InfinityLoop.dll
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\bin\Debug\net5.0\ref\InfinityLoop.dll
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\bin\Debug\net5.0\InfinityLoop.pdb
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\obj\Debug\net5.0\InfinityLoop.csproj.AssemblyReference.cache
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\obj\Debug\net5.0\InfinityLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\obj\Debug\net5.0\InfinityLoop.AssemblyInfoInputs.cache
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\obj\Debug\net5.0\InfinityLoop.AssemblyInfo.cs
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\obj\Debug\net5.0\InfinityLoop.csproj.CoreCompileInputs.cache
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\obj\Debug\net5.0\InfinityLoop.dll
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\obj\Debug\net5.0\ref\InfinityLoop.dll
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\obj\Debug\net5.0\InfinityLoop.pdb
+D:\repos\Infinity-Loop-CSharp\InfinityLoop\obj\Debug\net5.0\InfinityLoop.genruntimeconfig.cache
