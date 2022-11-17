@@ -1,0 +1,15 @@
+/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/bin/Debug/net6.0/InfinityLoop
+/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/bin/Debug/net6.0/InfinityLoop.deps.json
+/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/bin/Debug/net6.0/InfinityLoop.runtimeconfig.json
+/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/bin/Debug/net6.0/InfinityLoop.dll
+/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/bin/Debug/net6.0/ref/InfinityLoop.dll
+/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/bin/Debug/net6.0/InfinityLoop.pdb
+/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/obj/Debug/net6.0/InfinityLoop.csproj.AssemblyReference.cache
+/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/obj/Debug/net6.0/InfinityLoop.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/obj/Debug/net6.0/InfinityLoop.AssemblyInfoInputs.cache
+/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/obj/Debug/net6.0/InfinityLoop.AssemblyInfo.cs
+/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/obj/Debug/net6.0/InfinityLoop.csproj.CoreCompileInputs.cache
+/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/obj/Debug/net6.0/InfinityLoop.dll
+/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/obj/Debug/net6.0/ref/InfinityLoop.dll
+/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/obj/Debug/net6.0/InfinityLoop.pdb
+/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/obj/Debug/net6.0/InfinityLoop.genruntimeconfig.cache

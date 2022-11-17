@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p8e0wFSUQ+opZ+ePu35M+H0VAUGOQCRuKGbPvp6lUQ0VxfmYYfLXMTkLDd7jZM8OXbC7y4yKETexo97jqnMkww==",
+  "dgSpecHash": "htMXmI2woDk2uvIaa6x5sS/o1BHcuCm4dlT2TdS2VlReGVZdpplL+vtd8u/3sl1CebHqQXEkmukREyQGAwKlrg==",
   "success": true,
-  "projectFilePath": "D:\\repos\\Infinity-Loop-CSharp\\InfinityLoop\\InfinityLoop.csproj",
+  "projectFilePath": "/home/hugovasko/RiderProjects/Infinity-Loop-CSharp/InfinityLoop/InfinityLoop.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
